@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "窗外的麻雀在电线杆上多嘴"
+title:  "A short data story"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2023-03-25
 feature_image: images/figure1.jpg
 tags: [tips, work]
----
 
-![figure1](assets/img/figure1.jpg)
+---
+^
+| 上面这个图片可以换一个好看的
+这个是文章的简介
+<!--more-->
+
+![figure1](images/figure1.jpg)
 
 The generated bar chart displays the number of larceny/theft crimes per day of the week and hour of the day, with a focus on data from 2003 to 2017.The x-axis is labeled with both the day of the week and hour of the day, while the y-axis shows the number of occurrences. The chart's layout is clean and easy to read, providing clear insights into the patterns of larceny/theft crimes throughout the week and day.
 
@@ -15,16 +19,16 @@ The generated bar chart displays the number of larceny/theft crimes per day of t
 Based on the generated bar chart, we can observe that the crime rate for larceny/theft is higher on weekdays, specifically from Monday to Friday. Additionally, the chart indicates that the time frame with the highest occurrence of larceny/theft crimes is between 3 PM to 8 PM. This trend of higher crime rates during the weekdays and late afternoons/early evenings is consistent with previous studies on crime patterns. The insights gained from this bar chart can provide valuable information to law enforcement agencies, helping them to allocate resources more effectively and improve crime prevention strategies.
 
 
-![figure2](assets/img/figure2.jpg)
+![figure2](images/figure2.jpg)
 One possible explanation for the high incidence of theft in San Francisco's Southern District is the theory of social deprivation. This theory posits that individuals who perceive themselves to be marginalized and excluded by society are more likely to seek wealth and resources within society. In such cases, theft may be viewed as a means to address financial problems. Given the Southern District's status as a poverty-stricken area, it is plausible that many residents have experienced marginalization and exclusion, which could contribute to the observed increase in theft cases.
 
 Another possible explanation is the theory of spatial crime patterns, which suggests that crime tends to cluster in certain areas rather than being randomly distributed throughout a city. These high-crime areas are often associated with social and economic problems, such as poverty, unemployment, and housing issues. Given that the Southern District may face these social and economic challenges, it is possible that they contribute to the district's high crime rate.
 
 
-![figure3](assets/img/figure3.jpg)
+![figure3](images/figure3.jpg)
 
 
-![figure4](assets/img/figure4.jpg)
+![figure4](images/figure4.jpg)
 
 
 Here is a brief analysis of the underlying causes and reasons for the observed patterns of LARCENY/THEFT incidents in San Francisco:
