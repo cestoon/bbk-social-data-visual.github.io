@@ -3,6 +3,7 @@ layout: post
 title:  "A short data story"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
 feature_image: images/figure1.jpg
+date: 2022-03-23
 tags: [tips, work]
 
 ---

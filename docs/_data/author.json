@@ -1,7 +1,8 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "BingKun Feng",
+  "common_name" : "BingKun Feng, Yao Xiao, ZiYuan Wang",
+  "bio": "Written by BINGKUN FENG who came from ChongQing China and study at DTU in Copenhagen like talking interesting things.",
+  "url": "https://www.dtu.dk/",
+  "location": "DTU, Denmark",
+  "image": "images/self-portray.jpeg"
 }

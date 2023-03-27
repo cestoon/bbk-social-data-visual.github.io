@@ -12,7 +12,7 @@ lang: en-US
 title: "Scriptor"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "this website is a assignment for course 02806 Social data analysis and visualization Spring 23"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/bbk-social-data-visual.github.io"
@@ -29,16 +29,16 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /bbk-social-data-visual.github.io/
   - text: About
-    url: /about/
+    url: /bbk-social-data-visual.github.io/about/
   - text: Style Guide
-    url: /style-guide/
+    url: /bbk-social-data-visual.github.io/style-guide/
   - text: Tags
-    url: /tags/
+    url: /bbk-social-data-visual.github.io/tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+# disqus: justgoodthemes
 
 # Colors
 accent_color: '#2d72d9'
