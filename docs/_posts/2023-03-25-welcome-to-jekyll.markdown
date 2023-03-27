@@ -70,8 +70,3 @@ Pratt, T. C., Cullen, F. T., Blevins, K. R., Daigle, L. E., & Unnever, J. D. (20
 San Francisco Planning Department. (2010). San Francisco neighborhood profiles. Retrieved from https://default.sfplanning.org/publications_reports/SF_Neighborhood_Profile/
 
 San Francisco Police Department. (n.d.). Crime prevention. Retrieved from https://www.sanfranciscopolice.org/c
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
