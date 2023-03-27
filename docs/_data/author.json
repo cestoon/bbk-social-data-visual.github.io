@@ -1,8 +1,19 @@
 {
   "name": "BingKun Feng",
-  "common_name" : "BingKun Feng, Yao Xiao, ZiYuan Wang",
+  "common_name" : "BingKun Feng, Yao Xiao, Ziyuan Wang",
   "bio": "Written by BINGKUN FENG who came from ChongQing China and study at DTU in Copenhagen like talking interesting things.",
   "url": "https://www.dtu.dk/",
   "location": "DTU, Denmark",
   "image": "images/self-portray.jpeg"
+
+  
+}
+
+{
+  "name": "Ziyuan Wang",
+  "common_name" : "BingKun Feng, Yao Xiao, Ziyuan Wang",
+  "bio": "Written by Ziyuan Wang who came from Shenyang,Liaoning China and study at DTU in Copenhagen like playing football.",
+  "url": "https://www.dtu.dk/",
+  "location": "DTU, Denmark",
+  "image": "ziyuan wang.jpg"
 }
