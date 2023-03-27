@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "窗外的麻雀在电线杆上多嘴"
+permalink: /post
 date:   2023-03-25 12:55:55 +0100
 categories: jekyll update
 ---
