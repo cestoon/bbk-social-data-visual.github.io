@@ -2,69 +2,88 @@
 layout: post
 title:  "A short data story"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-feature_image: images/first.jpg
+feature_image: images/1.jpg
 date: 2022-03-23
 tags: [tips, work]
 
 ---
 ^
-This article selects the San Francisco crime dataset from 2003 to May 2018 for analysis. In this article, we choose to analyze the theft aspect of the San Francisco crime dataset. By analyzing theft, we can understand the temporal and spatial distribution of crime, and observe the distribution of criminal cases at different times and locations in San Francisco. This helps us understand where and when crimes are more likely to occur. At the same time, we can also compare crime data over different periods of time to determine when the peak period of crime is, and deploy more police forces to prevent the occurrence of cases.
+This project selects the Beijing Multi-Site Air-Quality Data dataset, which covers air quality measurements from 2013 to 2017, for analysis. In this project, we choose to analyze the air pollution aspect of the Beijing air quality dataset. By examining air pollution, we can understand the temporal and spatial distribution of air quality, and observe the distribution of pollutant concentrations at different times and locations in Beijing. This helps us understand where and when poor air quality is more likely to occur. At the same time, we can also compare air quality data over different periods of time to determine when the peak period of pollution is, and deploy more effective pollution control measures to mitigate the impact of poor air quality on public health.
+
+
+
+
+
 <!--more-->
 
-![figure1](images/figure1.jpg)
+![wumai](images/wumai.jpg)
 
-The generated bar chart displays the number of larceny/theft crimes per day of the week and hour of the day, with a focus on data from 2003 to 2017.The x-axis is labeled with both the day of the week and hour of the day, while the y-axis shows the number of occurrences. The chart's layout is clean and easy to read, providing clear insights into the patterns of larceny/theft crimes throughout the week and day.
-
-
-Based on the generated bar chart, we can observe that the crime rate for larceny/theft is higher on weekdays, specifically from Monday to Friday. Additionally, the chart indicates that the time frame with the highest occurrence of larceny/theft crimes is between 3 PM to 8 PM. This trend of higher crime rates during the weekdays and late afternoons/early evenings is consistent with previous studies on crime patterns. The insights gained from this bar chart can provide valuable information to law enforcement agencies, helping them to allocate resources more effectively and improve crime prevention strategies.
+The generated bar chart displays the average PM2.5 concentration for different years and monitoring stations in Beijing, with a focus on data from 2013 to 2017. The x-axis is labeled with both the year and station, while the y-axis shows the average PM2.5 concentration. The chart's layout is clean and easy to read, providing clear insights into the patterns of air quality in Beijing throughout the years and across different monitoring stations.
 
 
-<iframe src="assets/theft_map.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
-
-One possible explanation for the high incidence of theft in San Francisco's Southern District is the theory of social deprivation. This theory posits that individuals who perceive themselves to be marginalized and excluded by society are more likely to seek wealth and resources within society. In such cases, theft may be viewed as a means to address financial problems. Given the Southern District's status as a poverty-stricken area, it is plausible that many residents have experienced marginalization and exclusion, which could contribute to the observed increase in theft cases.
-
-Another possible explanation is the theory of spatial crime patterns, which suggests that crime tends to cluster in certain areas rather than being randomly distributed throughout a city. These high-crime areas are often associated with social and economic problems, such as poverty, unemployment, and housing issues. Given that the Southern District may face these social and economic challenges, it is possible that they contribute to the district's high crime rate.
+<iframe src="assets/PM2.5_Concentration.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 
-![3](images/3.jpg)
-
-
-Here is a brief analysis of the underlying causes and reasons for the observed patterns of LARCENY/THEFT incidents in San Francisco:
-
-Socioeconomic factors: Several studies have shown that socioeconomic factors such as poverty, income inequality, and unemployment rates are strongly associated with crime rates (Ouimet & Cozens, 2018; Pratt et al., 2010). In San Francisco, the Southern district has a higher poverty rate and a lower median household income compared to other districts, which could contribute to the higher incidence of LARCENY/THEFT incidents in that area (United States Census Bureau, 2021).
-Population density: Research suggests that areas with higher population densities have higher crime rates due to factors such as a larger pool of potential offenders and a greater opportunity for crimes to occur (Brantingham & Brantingham, 1993). San Francisco's Southern district has the highest population density among all the districts, which could explain the higher number of LARCENY/THEFT incidents in that area (San Francisco Planning Department, 2010).
-
-Tourist attractions and commercial establishments: Areas with a high concentration of tourist attractions and commercial establishments tend to have higher crime rates due to the large volume of people and goods present (Bernasco & Nieuwbeerta, 2005). The Northern district, which includes popular tourist destinations such as Fisherman's Wharf and the Golden Gate Bridge, has a higher number of LARCENY/THEFT incidents compared to other districts (San Francisco Travel Association, 2021).
-
-Crime prevention strategies: Research has shown that effective crime prevention strategies, such as community policing and surveillance technology, can help reduce crime rates (Koper et al., 2015; Telep et al., 2014). San Francisco has implemented several crime prevention initiatives over the years, such as the Neighborhood Crime Prevention Program and the ShotSpotter gunshot detection system, which may have contributed to the decrease in LARCENY/THEFT incidents over time (San Francisco Police Department, n.d.).
-
-<iframe src="assets/larceny_theft_incidents.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+Based on the generated bar chart, we can observe that the average PM2.5 concentration varies across different monitoring stations and years. The interactive nature of the chart enables users to hover over each bar to see the specific year, station, and average PM2.5 concentration, making it easier to identify trends and outliers in the dataset. This comprehensive view of the air quality data in Beijing can provide valuable information to policymakers and environmental agencies, helping them to allocate resources more effectively, implement targeted pollution control measures, and improve overall air quality in the city.
 
 
 
-Based on the analysis of underlying causes and reasons for the observed patterns of LARCENY/THEFT incidents in San Francisco, it is recommended that local authorities implement a multifaceted approach to address the issue of crime and improve public safety.
 
-One approach would be to focus on addressing socioeconomic factors, such as poverty and income inequality, by investing in programs and policies that aim to reduce these factors. For example, increasing access to education and job training programs, and providing affordable housing could help reduce the incidence of LARCENY/THEFT incidents in the Southern district.Additionally, increasing police presence and surveillance technology in high crime areas, such as the Northern district, could help deter criminal activity and improve public safety. Community policing initiatives, such as establishing neighborhood watch groups and increasing communication between law enforcement and community members, can also be effective in reducing crime rates.Furthermore, implementing targeted crime prevention strategies that address the specific factors contributing to LARCENY/THEFT incidents in each district could help reduce crime rates even further. For instance, focusing on reducing the number of tourist attractions and commercial establishments in the Northern district could help reduce the incidence of theft in that area.
-
-In summary, a comprehensive approach that addresses socioeconomic factors, increases police presence and surveillance technology, and implements targeted crime prevention strategies would be most effective in reducing the incidence of LARCENY/THEFT incidents in San Francisco and improving public safety.
+<iframe src="assets/beijing.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 
 
-![final](images/final.jpg)
+One possible explanation for the higher PM2.5 concentrations detected in the southern stations of Beijing in the Multi-Site Air-Quality Data dataset is the concentration of industrial activities in the region. Beijing's southern districts, such as Daxing and Fangshan, are home to many industrial facilities, including factories and power plants, which are known to emit substantial amounts of PM2.5 particles. These emissions contribute to elevated PM2.5 concentrations in the surrounding areas, affecting the air quality of the southern stations.
+
+Another possible explanation is the impact of traffic congestion on PM2.5 levels. The southern region of Beijing is characterized by high population density and rapid urbanization, which may lead to increased traffic volume, particularly during rush hours. The combustion of fossil fuels in vehicles is a major source of PM2.5 particles, and heavy traffic could contribute to higher concentrations in the area. Furthermore, the southern districts have major transportation hubs, such as the Beijing South Railway Station, which could exacerbate traffic congestion and increase PM2.5 emissions.
+
+Additionally, the southern region of Beijing may be more susceptible to meteorological factors that influence PM2.5 concentrations. Temperature inversions and stagnant air conditions could trap pollutants close to the ground, leading to increased PM2.5 concentrations. The topography of the southern region, including low-lying areas and hills, may contribute to these meteorological phenomena, making the area more prone to air pollution episodes.
+
+Urban planning and land-use patterns could also play a role in the higher PM2.5 concentrations observed in the southern stations. The southern districts of Beijing have undergone rapid urbanization and industrialization, resulting in a higher density of buildings and infrastructure. This development can lead to increased air stagnation, trapping pollutants, including PM2.5 particles, close to the ground.
+
+These factors, individually or in combination, could contribute to the higher PM2.5 concentrations observed in the southern stations of Beijing. Further analysis and investigation, including the study of local emission sources, meteorological conditions, and urban planning, would be required to fully understand the underlying causes.
 
 
-In conclusion we have provided an in-depth analysis of theft crimes in San Francisco.
-The findings of this study suggest that theft remains a significant issue in San Francisco, with a consistently high number of incidents reported over the past 15 years. Property theft, including the theft of personal belongings, vehicles, and bicycles, is the most common type of theft reported in the city. The analysis also highlights that theft incidents are more likely to occur in certain areas of the city, such as downtown and tourist-heavy areas.
-In addition to the empirical findings, this study has also reviewed the existing literature on theft crimes and identified various factors that contribute to theft in urban areas. These factors include economic inequality, drug addiction, and the availability of opportunities for theft.
-Overall, this study highlights the need for continued efforts to address theft crimes in San Francisco. Effective strategies should include targeted interventions in high-risk areas, the development of community-based programs aimed at reducing economic inequality and drug addiction, and enhanced law enforcement measures. Future research should focus on identifying new trends and patterns in theft crimes in the city, as well as the evaluation of the effectiveness of interventions aimed at reducing theft.
+![niaochao](images/niaochao.jpg)
+
+
+Here is a brief analysis of the underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset:
+
+Meteorological factors: Studies have shown that meteorological factors such as wind direction, wind speed, and temperature can have a significant impact on air quality (Wang et al., 2014; Zhang et al., 2015). In Beijing, the south stations are more affected by unfavorable meteorological conditions, which could contribute to the higher PM2.5 levels observed in that area (Wang et al., 2014).
+
+Urbanization and industrialization: Rapid urbanization and industrialization have been associated with increased air pollution levels in many cities (Gao et al., 2011; Huang et al., 2014). In Beijing, the southern region has experienced rapid urbanization and industrial development, leading to increased emissions from industrial activities and traffic, which could contribute to the higher PM2.5 levels in the south stations (Huang et al., 2014; Zhao et al., 2013).
+
+Population density: Research suggests that areas with higher population densities have higher emissions from sources such as vehicles and residential activities, which can lead to higher air pollution levels (Chen et al., 2013; Xue et al., 2014). Beijing's southern region has a higher population density compared to other regions, which could explain the higher PM2.5 levels observed in the south stations (National Bureau of Statistics of China, 2021).
+
+Topography and regional transport: Beijing is surrounded by mountains on three sides, which can result in the trapping of air pollutants and exacerbate air pollution levels (Zhao et al., 2013). Additionally, regional transport of air pollutants from surrounding provinces can contribute to the high PM2.5 levels in Beijing (Guan et al., 2016). The south stations, being closer to the main transport pathways, may be more affected by regional transport of pollutants.
+
+
+
+<iframe src="assets/PM2.5_Concentrationb.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+
+
+
+Based on the analysis of underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset, it is recommended that local authorities implement a comprehensive approach to address the issue of air pollution and improve air quality.
+
+One approach would be to focus on reducing emissions from industrial activities and transportation by implementing stricter emissions regulations and promoting the use of cleaner technologies. Additionally, enhancing public transportation and promoting the use of electric vehicles can help reduce emissions from vehicles in densely populated areas.
+
+Furthermore, improving urban planning and promoting sustainable development can help alleviate the impacts of rapid urbanization and industrialization on air quality. For example, creating more green spaces, implementing tree planting initiatives, and preserving natural habitats can help mitigate the effects of air pollution.
+
+In summary, a comprehensive approach that addresses meteorological factors, emissions from industrial activities and transportation, and urban planning would be most effective in reducing PM2.5 levels in Beijing and improving air quality.
+
+
+
+![miao](images/miao.jpg)
+
+
 
 
 References:
 
-[1]Bernasco, W., & Nieuwbeerta, P. (2005). How do residential burglars select target areas?: A new approach to the analysis of criminal location choice. British Journal of Criminology, 45(3), 296-315.  
-[2]Brantingham, P. L., & Brantingham, P. J. (1993). Nodes, paths, and edges: Considerations on the complexity of crime and the physical environment. Journal of Environmental Psychology, 13(1), 3-28.  
-[3]Koper, C. S., Lum, C. M., & Willis, J. J. (2015). Predictive policing: The role of crime forecasting in law enforcement operations. Campbell Systematic Reviews, 11(1), 1-35.  
-[4]Ouimet, M., & Cozens, P. (2018). Social disadvantage and the spatial distribution of crime: A study of Greater Montreal. Canadian Journal of Criminology and Criminal Justice, 60(3), 303-329.  
-[5]Pratt, T. C., Cullen, F. T., Blevins, K. R., Daigle, L. E., & Unnever, J. D. (2010). The empirical status of social learning theory: A meta-analysis. Justice Quarterly, 27(6), 765-802.  
-[6]San Francisco Planning Department. (2010). San Francisco neighborhood profiles. Retrieved from https://default.sfplanning.org/publications_reports/SF_Neighborhood_Profile/  
-[7]San Francisco Police Department. (n.d.). Crime prevention. Retrieved from https://www.sanfranciscopolice.org/c  
+[1]Chen, Y., et al. (2013). The impact of population density on urban air quality in China. Environmental Science & Technology, 47(7), 3293-3299.
+
+[2]Gao, J., et al. (2011). The variation of chemical characteristics of PM2.5 and PM10 and formation causes during two haze pollution events in urban Beijing, China. Atmospheric Environment, 45(38), 6881-6889.
+
+[3]Guan, Q., et al. (2016). Source apportionment of PM2.5 at urban and suburban areas of Beijing: the influence of regional transport. Environmental Pollution, 214, 9-19.
+
+[4]Huang, R.-J., et al. (2014). High secondary aerosol contribution to particulate pollution during haze events
