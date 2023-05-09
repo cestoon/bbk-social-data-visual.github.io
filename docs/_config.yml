@@ -12,7 +12,7 @@ lang: en-US
 title: "Scriptor"
 
 # A description of your site for meta tag, search engine results.
-description: "this website is a assignment for course 02806 Social data analysis and visualization Spring 23"
+description: "this website is the final project for course 02806 Social data analysis and visualization Spring 23"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/bbk-social-data-visual.github.io"
