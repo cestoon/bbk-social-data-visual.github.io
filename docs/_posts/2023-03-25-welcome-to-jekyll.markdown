@@ -6,8 +6,8 @@ feature_image: images/1.jpg
 date: 2022-03-23
 tags: [tips, work]
 ---
-If wanna check out the details in the jupyter notebook which including code on data analysis, preprocessing and plots: [Notebook](https://nbviewer.org/github/cestoon/bbk-social-data-visual.github.io/blob/gh-pages/fianl_project/final%20project.ipynb) link.
-
+If wanna check out the details in the jupyter notebook which including code on data analysis, preprocessing and plots: [Notebook](https://nbviewer.org/github/cestoon/bbk-social-data-visual.github.io/blob/gh-pages/fianl_project/final%20project.ipynb) link. 
+if you interested with the dataset, you can download it from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip)
 
 ^
 This project selects the Beijing Multi-Site Air-Quality Data dataset, which covers air quality measurements from 2013 to 2017, for analysis. In this project, we choose to analyze the air pollution aspect of the Beijing air quality dataset. By examining air pollution, we can understand the temporal and spatial distribution of air quality, and observe the distribution of pollutant concentrations at different times and locations in Beijing. This helps us understand where and when poor air quality is more likely to occur. At the same time, we can also compare air quality data over different periods of time to determine when the peak period of pollution is, and deploy more effective pollution control measures to mitigate the impact of poor air quality on public health.
