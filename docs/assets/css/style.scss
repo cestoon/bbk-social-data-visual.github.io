@@ -39,6 +39,9 @@ $palette: (
   border:    #d7d7d7,
   bg:        #fbfbfb
 );
+.highlight {
+  font-size: 2.2em; /* 自定义放大的字体大小 */
+}
 
 // Imports
 @import "functions";

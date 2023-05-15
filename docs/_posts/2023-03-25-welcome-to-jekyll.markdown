@@ -6,8 +6,8 @@ feature_image: images/1.jpg
 date: 2022-03-23
 tags: [tips, work]
 ---
-If wanna check out the details in the jupyter notebook which including code on data analysis, preprocessing and plots: [Notebook](https://nbviewer.org/github/cestoon/bbk-social-data-visual.github.io/blob/gh-pages/fianl_project/final%20project.ipynb) link. 
-if you interested with the dataset, you can download it from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip)
+If wanna check out the details in the jupyter notebook which including code on data analysis, preprocessing and plots: [Notebook](https://nbviewer.org/github/cestoon/bbk-social-data-visual.github.io/blob/363a701d58edff03a9e65c987a383212a5dfdc22/fianl_project/finalproject%20.ipynb) link. 
+If you interested with the dataset, you can download it from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip).
 
 ^
 This project selects the Beijing Multi-Site Air-Quality Data dataset, which covers air quality measurements from 2013 to 2017, for analysis. In this project, we choose to analyze the air pollution aspect of the Beijing air quality dataset. By examining air pollution, we can understand the temporal and spatial distribution of air quality, and observe the distribution of pollutant concentrations at different times and locations in Beijing. This helps us understand where and when poor air quality is more likely to occur. At the same time, we can also compare air quality data over different periods of time to determine when the peak period of pollution is, and deploy more effective pollution control measures to mitigate the impact of poor air quality on public health.
@@ -26,12 +26,11 @@ The generated bar chart displays the average PM2.5 concentration for different y
 <iframe src="assets/PM2.5_Concentration.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 
-Based on the generated bar chart, we can observe that the average PM2.5 concentration varies across different monitoring stations and years. The interactive nature of the chart enables users to hover over each bar to see the specific year, station, and average PM2.5 concentration, making it easier to identify trends and outliers in the dataset. This comprehensive view of the air quality data in Beijing can provide valuable information to policymakers and environmental agencies, helping them to allocate resources more effectively, implement targeted pollution control measures, and improve overall air quality in the city.
+<span class="highlight">Based</span>  on the generated bar chart, we can observe that the average PM2.5 concentration varies across different monitoring stations and years. The interactive nature of the chart enables users to hover over each bar to see the specific year, station, and average PM2.5 concentration, making it easier to identify trends and outliers in the dataset. This comprehensive view of the air quality data in Beijing can provide valuable information to policymakers and environmental agencies, helping them to allocate resources more effectively, implement targeted pollution control measures, and improve overall air quality in the city.
 
 
 
 
-<iframe src="assets/beijing.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 
 
@@ -39,7 +38,10 @@ One possible explanation for the higher PM2.5 concentrations detected in the sou
 
 Another possible explanation is the impact of traffic congestion on PM2.5 levels. The southern region of Beijing is characterized by high population density and rapid urbanization, which may lead to increased traffic volume, particularly during rush hours. The combustion of fossil fuels in vehicles is a major source of PM2.5 particles, and heavy traffic could contribute to higher concentrations in the area. Furthermore, the southern districts have major transportation hubs, such as the Beijing South Railway Station, which could exacerbate traffic congestion and increase PM2.5 emissions.
 
-Additionally, the southern region of Beijing may be more susceptible to meteorological factors that influence PM2.5 concentrations. Temperature inversions and stagnant air conditions could trap pollutants close to the ground, leading to increased PM2.5 concentrations. The topography of the southern region, including low-lying areas and hills, may contribute to these meteorological phenomena, making the area more prone to air pollution episodes.
+<iframe src="assets/beijing.html" height="600px" width="100%" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+
+
+<span class="highlight">Additionally</span>, the southern region of Beijing may be more susceptible to meteorological factors that influence PM2.5 concentrations. Temperature inversions and stagnant air conditions could trap pollutants close to the ground, leading to increased PM2.5 concentrations. The topography of the southern region, including low-lying areas and hills, may contribute to these meteorological phenomena, making the area more prone to air pollution episodes.
 
 Urban planning and land-use patterns could also play a role in the higher PM2.5 concentrations observed in the southern stations. The southern districts of Beijing have undergone rapid urbanization and industrialization, resulting in a higher density of buildings and infrastructure. This development can lead to increased air stagnation, trapping pollutants, including PM2.5 particles, close to the ground.
 
@@ -49,7 +51,7 @@ These factors, individually or in combination, could contribute to the higher PM
 ![niaochao](images/niaochao.jpg)
 
 
-Here is a brief analysis of the underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset:
+<span class="highlight">Here</span> is a brief analysis of the underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset:
 
 Meteorological factors: Studies have shown that meteorological factors such as wind direction, wind speed, and temperature can have a significant impact on air quality (Wang et al., 2014; Zhang et al., 2015). In Beijing, the south stations are more affected by unfavorable meteorological conditions, which could contribute to the higher PM2.5 levels observed in that area (Wang et al., 2014).
 
@@ -65,7 +67,7 @@ Topography and regional transport: Beijing is surrounded by mountains on three s
 
 
 
-Based on the analysis of underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset, it is recommended that local authorities implement a comprehensive approach to address the issue of air pollution and improve air quality.
+<span class="highlight">Based</span> on the analysis of underlying causes and reasons for the observed patterns of PM2.5 levels in the Beijing Multi-Site Air-Quality Data dataset, it is recommended that local authorities implement a comprehensive approach to address the issue of air pollution and improve air quality.
 
 One approach would be to focus on reducing emissions from industrial activities and transportation by implementing stricter emissions regulations and promoting the use of cleaner technologies. Additionally, enhancing public transportation and promoting the use of electric vehicles can help reduce emissions from vehicles in densely populated areas.
 
