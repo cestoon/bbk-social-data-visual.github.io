@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this website
-description: this website is a assignment for course 02806 Social data analysis and visualization Spring 23
+description: this website is the final project for course 02806 Social data analysis and visualization Spring 23
 feature_image: images/self-portray.jpeg
 ---
 
